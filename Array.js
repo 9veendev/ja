@@ -20,6 +20,6 @@ console.log(cars[0]);
 const girls = ["a","b","c","d"];
 const boys = ["1","2","3","4"];
 const trans = ["A","B"];
-// const Both = girls.concat(boys);
-const Both = girls.concat(boys,trans);
+const Both = girls.concat(boys);
+// const Both = girls.concat(boys,trans);
 console.log(Both);
